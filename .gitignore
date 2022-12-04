@@ -1,0 +1,7 @@
+**/.vscode/
+**/__pycache__
+**/node_modules
+**/dist
+**/build
+**/logs/*.log*
+**/.idea
